@@ -1,0 +1,3 @@
+name = "root-redirect-worker"
+compatibility_date = "2025-08-24"
+main = "index.js"
